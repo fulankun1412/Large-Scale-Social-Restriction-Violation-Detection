@@ -1,5 +1,5 @@
 # Large-Scale-Social-Restriction-Violation-Detection
-Like its name or also can be called as Social Distancing Violation Detector.
+Just Like the name above for in Indonesian or also can be called as Social Distancing Violation Detector.
 
 This Code using YOLOv3 As it's Object detection.
 

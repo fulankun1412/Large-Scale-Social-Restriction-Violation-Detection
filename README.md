@@ -5,6 +5,9 @@ This Code using YOLOv3 As it's Object detection.
 
 This repository code based on [Pyimagesearch.com](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/) with some modification added to like automaticaly print the result to Excel.
 
+This propgram used for paper: "A computer vision-based object detection and counting for COVID-19 protocol compliance: a case study of Jakarta"
+IEEE: https://ieeexplore.ieee.org/document/9307594
+
 ## Usage
 1. First Download the Yolo-COCO Weight by simply click this Link [Download](https://drive.google.com/file/d/1alAYIahvuSzg0sa5G__bABx0Y2Nc8plI/view?usp=sharing).
 2. Put the downloaded file to folder Yolo-COCO
